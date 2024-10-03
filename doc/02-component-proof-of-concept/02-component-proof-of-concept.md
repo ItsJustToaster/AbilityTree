@@ -1,10 +1,12 @@
 # Portfolio Part 2: Component Proof-of-Concept
 
-- **Name**: Michael Stitt
-- **Dot Number**: Stitt.77
-- **Due Date**: 10/3/24
+- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) then delete this comment -->
+- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) then delete this comment -->
+- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) then delete this comment -->
 
 ## Assignment Overview
+
+<!-- TODO: read the assignment overview then delete this comment -->
 
 Previously, you brainstormed three ideas, and hopefully you got some feedback as
 well. However, it's impossible to know how reasonable your design actually is
@@ -28,6 +30,8 @@ the more work you can put in now, the better.
 
 ## Assignment Checklist
 
+<!-- TODO: browse the checklist then delete this comment -->
+
 To be sure you have completed everything on this assignment, we have littered
 this document with TODO comments. You can browse all of them in VSCode by
 opening the TODOs window from the sidebar. The icon looks like a tree and will
@@ -49,6 +53,8 @@ to the tree diagram (you may remove this one as well):
 
 ## Assignment Learning Objectives
 
+<!-- TODO: read the assignment learning objectives then delete this comment -->
+
 Without learning objectives, there really is no clear reason why a particular
 assessment or activity exists. Therefore, to be completely transparent, here is
 what we're hoping you will learn through this particular aspect of the portfolio
@@ -61,6 +67,8 @@ project. Specifically, students should be able to:
 3. Assemble a minimal working implementation of one of their designs
 
 ## Assignment Rubric: 10 Points
+
+<!-- TODO: read the assignment rubric then delete this comment -->
 
 Again, to be completely transparent, most of the portfolio project, except the
 final submission, is designed as a formative assessment. Formative assessments
@@ -98,7 +106,8 @@ do good work.
 > to create a new design. In you do end up picking one at random, you should
 > disclose that here as well.
 
-I have chosen my AbilityTree component. I have chosen this component because It is the component that I was able to really think of methods for.
+<!-- TODO: briefly argue your choice of design or design something
+new; then delete this comment -->
 
 > Once you've argued your choice of design, make a branch in your new repo called
 > something like `proof-of-concept`. There are many ways to do this, but my
@@ -108,6 +117,8 @@ I have chosen my AbilityTree component. I have chosen this component because It 
 > VSCode to run git commands. It's entirely up to you. Regardless of your choice,
 > we'll want a branch that you can later make a pull request from with all
 > your changes.
+
+<!-- TODO: make a new branch from main then delete this comment -->
 
 ## Assignment Tasks
 
@@ -226,4 +237,5 @@ better for future students.
 <!-- TODO: follow the link to share your feedback then delete this comment -->
 
 [pottery-fails]: https://www.youtube.com/shorts/Kqb9l113F_0?feature=share
+[markdown-to-pdf-guide]: https://therenegadecoder.com/blog/how-to-convert-markdown-to-a-pdf-3-quick-solutions/
 [survey]: https://forms.gle/dumXHo6A4Enucdkq9
