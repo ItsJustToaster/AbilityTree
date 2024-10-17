@@ -24,4 +24,14 @@ the following form: YYYY.0M.0D.
 
 - Changed design to include proof of concept fot AbilityTree in AbilityTree.java
 
+## 2024.10.17
+
+### Added
+
+- Designed kernel and enhanced interfaces for AbilityTree --> component
+
+### Updated
+
+- Changed design to include AbiliTree.java, AbilityTreeKernal.java and AbilityTree1.java
+
 [unreleased]: https://github.com/jrg94/portfolio-project/compare/v2024.08.07...HEAD
